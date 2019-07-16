@@ -6,3 +6,5 @@
 .idea/
 *.sln.iml
 
+# dont sync backup files
+*.bak
