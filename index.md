@@ -2,9 +2,7 @@
 layout: default
 ---
 
-[to techiton]().
-
-Welcome to my blog! This is mostly dedicated for logging my development on a game called **[Techiton]**(https://techiton.net).
+Welcome to my blog! This is mostly dedicated for logging my development on a game called **[Techiton](https://techiton.net)**.
 
 
 # Header 1
