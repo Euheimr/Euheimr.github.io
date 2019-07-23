@@ -2,17 +2,14 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+[to techiton]().
 
-[Link to another page](./another-page.html).
+Welcome to my blog! This is mostly dedicated for logging my development on a game called **[Techiton]**(https://techiton.net).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Test
 
 ## Header 2
 
