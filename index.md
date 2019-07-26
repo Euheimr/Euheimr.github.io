@@ -2,117 +2,23 @@
 layout: default
 ---
 
-Welcome to my blog! This is mostly dedicated for logging my development on a game called **[Techiton](https://techiton.net)**.
+# Welcome to my blog! 
 
-
-# Header 1
-
-Test
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
+This is mostly dedicated for logging my development on a game called **[Techiton](https://techiton.net)**. 
 * * *
+![icon](assets/images/ticon_v5.png)
+* * *
+I've largely found myself unsatisfied with modern RTS games. In the last ten years and had come to the conclusion that they are simply too complex but at the same time, unflexable. Total Annihilation allowed you to **not** be rooted to a specific area for resources on the map, besides the (infinite) metal collection nodes that are limited by the Tech level for Metal extraction rate.
 
-### Here is an unordered list:
+I believe this is part of what made that game great. Energy could be made just about **anywhere** around the map. With only two resources (three, if you count "Unit Build Time") and complete flexibility of rooting your base anywhere in the map is something under appreciated.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Problem is that most modern RTSs involve too much micro-play. Supreme Commander thought too big, and Starcraft II makes your base a sitting duck on static points around the map with too many resource restrictions. I don't believe this encourages much flexibility in play or strategy.
 
-### And an ordered list:
+**Simplicity is key.** A lot of strategy is already pretty involved by making decisions on the number of certain units, where to place them, where to make factories and defensive structures alone. Adding spells to certain units convolutes things despite how satisfying it can sometimes be.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+Also it's a real struggle for anyone to run totalA on a modern system without hurdles.
 
-### And a nested list:
+And that's why I'm working on this game! 
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Have ideas or want to help? Email me at nulsoro@gmail.com or message me on discord (Nulsoro#0950)!
+Or, join the discord [here](https://discord.gg/eQHx4Rv).
