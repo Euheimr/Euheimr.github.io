@@ -21,11 +21,7 @@ body {
 /* General & 'Reset' Stuff */
 
 /* techiton icon style */
-.ticon{
-  border: 0px;
-  width: 150px;
-  padding: 5px;
-}
+
 
 .container {
   width: 90%;
@@ -60,6 +56,11 @@ header {
   margin: 0 0 40px 0;
 }
 
+header img .ticon{
+  border: 0px;
+  width: 150px;
+  padding: 5px;
+}
 header h1 {
   font-size: 30px;
   line-height: 1.5;
