@@ -56,11 +56,12 @@ header {
   margin: 0 0 40px 0;
 }
 
-header div img .ticon{
+header div img {
   border: 0px;
   width: 100px;
   padding: 5px;
   display: inline-block;
+  align-self: left;
 }
 header h1 {
   font-size: 30px;
