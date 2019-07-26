@@ -1,6 +1,6 @@
 
 title: Jake's DevBlog
 description: A development blog
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
