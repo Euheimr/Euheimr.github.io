@@ -5,9 +5,9 @@ layout: default
 # Welcome to my blog! 
 
 This is mostly dedicated for logging my development on a game called **[Techiton](https://techiton.net)**. 
+
 * * *
-![icon](assets/images/ticon_v5.png)
-* * *
+
 I've largely found myself unsatisfied with modern RTS games. In the last ten years and had come to the conclusion that they are simply too complex but at the same time, unflexable. Total Annihilation allowed you to **not** be rooted to a specific area for resources on the map, besides the (infinite) metal collection nodes that are limited by the Tech level for Metal extraction rate.
 
 I believe this is part of what made that game great. Energy could be made just about **anywhere** around the map. With only two resources (three, if you count "Unit Build Time") and complete flexibility of rooting your base anywhere in the map is something under appreciated.
